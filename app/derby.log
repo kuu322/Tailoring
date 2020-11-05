@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 05 17:58:10 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0175-9860-e712-0000013a5558 
+on database directory H:\APPLICATION folder\EXE file\arishela\app\lib\ELAKUMAR with class loader sun.misc.Launcher$AppClassLoader@c387f44 
+Loaded from file:/H:/APPLICATION%20folder/EXE%20file/arishela/app/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=H:\APPLICATION folder\EXE file\arishela\app
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
